@@ -1,0 +1,51 @@
+[   {
+    "id": "7b838108-3720-4c50-9de3-a7cc04af24f5",
+    "name": "Berniec",
+    "username": "Ana_Quigley",
+    "socials":[
+      "https://www.instagram.com/noob_adu/",
+      "https://open.spotify.com/playlist/6RLq31N0ksvFx9neX2xzwX?si=1d_itSdeSdOAjmlpIxvVcA&utm_source=copy-link&nd=1",
+      "https://soundcloud.com/dhri-jethi",
+      "https://www.twitch.tv/dhri_yama"
+    ],
+    "links":[
+      {
+          "text":"Senpai",
+          "href":"https://open.spotify.com/album/1297mcjEuPHJ4H9neSqYBe?highlight=spotify:track:6lKFyaeaeJI9DMtylAiGzr"
+      },
+      {
+          "text":"Hinokami",
+          "href":"https://soundcloud.com/dhri-jethi/tanjiro-kokiyuda"
+      },
+      {
+          "text":"Red Charm",
+          "href":"https://soundcloud.com/dhri-jethi/red-charm"
+      }
+  ]
+  },
+  {
+    "id": "66c9b0fd-7df6-4e2a-80c2-0e4f8cdd89b1",
+    "name": "Bradly",
+    "username": "Winona_Kulas12"
+  },
+  {
+    "id": "718590a1-33ac-4e61-9fef-b06916acd76b",
+    "name": "Leila",
+    "username": "Isabell.Kautzer"
+  },
+  {
+    "id": "411df0f3-bb2c-4f5f-870f-3db9c30d754f",
+    "name": "Laila",
+    "username": "Christophe.Oberbrunner"
+  },
+  {
+    "id": "e1254480-d205-4be8-abfa-67ad7dcd03fb",
+    "Name": "Joe",
+    "username": "Dahlia.Gerhold56"
+  },
+  {
+    "id": "d0087200-9621-4787-a3db-cebbede163e6",
+    "name": "Bettye",
+    "username": "Thad_Mayert"
+  }
+]

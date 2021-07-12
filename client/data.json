@@ -1,0 +1,25 @@
+[
+    {
+        "username": "Dhri",
+        "socials":[
+            "https://www.instagram.com/noob_adu/",
+            "https://open.spotify.com/playlist/6RLq31N0ksvFx9neX2xzwX?si=1d_itSdeSdOAjmlpIxvVcA&utm_source=copy-link&nd=1",
+            "https://soundcloud.com/dhri-jethi",
+            "https://www.twitch.tv/dhri_yama"
+        ],
+        "links":[
+            {
+                "text":"Senpai",
+                "href":"https://open.spotify.com/album/1297mcjEuPHJ4H9neSqYBe?highlight=spotify:track:6lKFyaeaeJI9DMtylAiGzr"
+            },
+            {
+                "text":"Hinokami",
+                "href":"https://soundcloud.com/dhri-jethi/tanjiro-kokiyuda"
+            },
+            {
+                "text":"Red Charm",
+                "href":"https://soundcloud.com/dhri-jethi/red-charm"
+            }
+        ]
+    }
+]
